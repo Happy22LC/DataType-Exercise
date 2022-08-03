@@ -1,9 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-string str = "He is driving a red car.";
-
-Console.WriteLine(str.Replace("red", "").Replace("  ", " "));
-
 //user input their name and greet them by name.
 string myName;
 Console.WriteLine("What is your name?");
